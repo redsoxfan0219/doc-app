@@ -27,3 +27,17 @@ class Glossary:
 # section would you like to insert this empty table of 
 # standard XGBoost hyperparameters, definitions, value
 # range, rationale for tuning this parameter, etc
+
+
+# Could be a chance to use model-view-controller pattern.
+# Example: Print out current list of entries. Select an entry.
+# For the selected entry, choose from: (1) Definition, (2) Templates,
+# (3) Resources.
+
+# For (2) Templates, choose: 
+#   (1) download an informational pdf containing info
+#   about templating options for the given methodology, sample templates, help text, etc
+# 
+#   OR
+#
+#   (2) Import a template component into an existing document

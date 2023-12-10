@@ -1,0 +1,29 @@
+
+"""The |Glossary| object"""
+
+class Glossary:
+    # def __init__(self, )
+    # Unsure what would need to go here for the time being
+
+
+
+# todo 
+# METHOD: FETCH AND PRINT MENU
+# Fetch and print the current 'home menu'--explaining how
+# to use the glossary, explaining what types of information
+# can be pulled from here, etc. Based on user input, 
+# fetch and print again for whatever option is chosen--e.g.
+# Option 'Methodology' --> Prints out list of the
+# methodologies currently included in the glossary
+
+
+# todo
+# METHOD: INJECT RELEVANT MATERIAL INTO DOCUMENT
+# If someone needs to use the glossary to figure out 
+# what kinds of information they should document for a 
+# given methodology, it would be nice to give them
+# template components that could be injected into their
+# document. Could have some kind of option like: Which
+# section would you like to insert this empty table of 
+# standard XGBoost hyperparameters, definitions, value
+# range, rationale for tuning this parameter, etc
